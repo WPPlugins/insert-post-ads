@@ -1,0 +1,4 @@
+body.post-type-insertpostads #misc-publishing-actions,
+body.post-type-insertpostads #minor-publishing-actions {
+	display: none;
+}
